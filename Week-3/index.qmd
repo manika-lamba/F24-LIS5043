@@ -1,5 +1,5 @@
 ---
-title: "Module 2: Representation & Surrogation"
+title: "Module 3.1: Users & Information Seeking"
 subtitle: "LIS 5043: Organization of Information"
 author: 
   - Dr. Manika Lamba
@@ -14,28 +14,22 @@ format:
     css: styles.css
 ---
 
-# Introduction {.smaller}
+## Introduction 
 
--   Two central concepts in the organization of information are *`representation`* and *`surrogation`*
--   `Representation` is a complex process. It is both the process and the product, depending on the context in which you are engaging with the concept
--   `Surrogation` is related to representation but can be thought of more as a process with a surrogate being the result of the surrogation process
--   `Surrogates` are objects that stand in place of something else, for example, a library card catalog record (MARC record) stands in place of the actual item in the library's collection (such as book, cd, dvd) etc.
--   Whenever we create a surrogate, we have to decide what to represent (or to highlight) about the object and in the same instance, what NOT to represent about the object
+- `Who are Users?`
+- `What can we know about Users?`
+- `How do users seek and search for information?`
+  - Examples of models for search and information seeking behavior
 
 ::: notes
-Two central concepts in the organization of information are representation and surrogation. In this lecture we will explore both within a library context first, and also in contexts outside of a library.\
+So let's talk about our users. Some questions to frame our thinking
 
-Representation, as hinted about in the Overview lecture, is a very complex concept, and one that you will read about a great deal in the literature of the organization of information.
+Who are our users?
+What can we know about users?
+How do users seek and search for information?
 
-Surrogation is related to representation but can be thought of more as a process with a surrogate being the result of the surrogation process.
-
-Surrogates are objects that stand in place of something else, for example, a library card catalog record (MARC record) stands in place of the actual item in the library's collection, a book, cd, dvd, etc.
-
-Whenever we create a surrogate, we have to decide what to represent (or to highlight) about the object and in the same instance, what NOT to represent about the object.
-
-Representation is both the process and the product, depending on the context in which you are engaging with the concept.
-
-Let's take a closer look at the different forms of representation and how they relate to information organization.
+We will also look at some different models that have been developed in
+Library and Information Science [LIS] through the years, primarily starting in the 1980s about how users look for information. So, these are some questions to help frame our thinking. Let's talk about each of these aspects individually.
 :::
 
 ## Representation

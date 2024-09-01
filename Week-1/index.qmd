@@ -9,6 +9,7 @@ format:
     chalkboard: 
       buttons: true
     preview-links: auto
+    show-notes: separate-page
     logo: images/ou.png
     css: styles.css
 ---
