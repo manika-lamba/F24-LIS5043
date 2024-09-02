@@ -1404,8 +1404,7 @@ In the areas of environmental design and in human
 few years. I have given you a couple of readings related to this because this is
 an area that I find particularly fascinating, but I also think it tells us a lot about
 our users in general.
-So
-the Jones, Marshall, and the Abbas Chapter 5 readings
+So, Abbas' Chapter 5 
 will talk a lot more about this, and again, we'll come back to it in Module 8,
 but it's
 a really interesting
@@ -1637,7 +1636,7 @@ metadata schemes like Dublin Core.
 
 What is in our library catalog records may
 not have changed much until the recent 5 years with the development of the
-FRBR model you learned about in Module 2 and with the new cataloging
+FRBR model and with the new cataloging
 standard, RDA. AND when we move beyond the MARC record in library
 catalogs into BIBFRAME, our records will hopefully connect to other external
 records through this linked data structure. But that is for another module.
