@@ -1,0 +1,551 @@
+---
+title: "Module 3.3: Searching Techniques and Process"
+subtitle: "LIS 5043: Organization of Information"
+author: 
+  - Dr. Manika Lamba
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      theme: whiteboard
+      buttons: true
+    preview-links: true
+    controls: true
+    progress: true
+    show-notes: separate-page
+    logo: images/ou.png
+    css: styles.css
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Database Searching {.smaller}
+
+-   Effective database searching consists of:
+    -   Analytical skills
+
+        -   Understanding and extracting meaning out of user information
+            needs
+
+    -   Conceptual skills in developing search strategies
+
+        -   Do we search for concepts or do we search for words?
+
+    -   Technical skills particular to a search system
+
+        -   Each database will have its own search functions, features,
+            structure, etc.
+
+::: notes
+In this module, we are going to look at some strategies and techniques
+that you can use for searching. We're going to primarily focus on
+searching within the database environment rather than on the web. You
+might recall in the earlier lecture in Module 3.2, we talked about
+database and information retrieval systems and the different models
+behind how these systems work. In this lecture we're going to continue
+the idea of searching and retrieval, but we're going to look
+specifically at some different systems that you might use while you're
+in the program at OU and then some skills and techniques that you can
+use in other environments as well. To learn even more I recommend you
+take the LIS 5523 Online Information Retrieval class.
+
+It's really important to note that there are several different skills
+sets that you're bringing to your database searching. Effective database
+searching consists of analytical skills, conceptual skills, as well as
+technical skills. Analytical skills are your understanding or being able
+to extract meaning out of a user's information need. Oftentimes when a
+user comes to you and needs help doing a search or if you're conducting
+a search for someone that you received via email, or on the phone, or
+chat, you're going to have to, first, have a very good understanding of
+what it is that they really want. And oftentimes a user is not exactly
+sure what they want or what they need in particular circumstances. So,
+an important part of effective searching is then helping the user
+understand their information need by asking a lot of targeted questions,
+which we'll discuss in a few minutes. So, analytical skills are really
+key to good database searching. Conceptual skills are also really
+important when you're developing search strategies for searching. We
+think about searching as putting together strings of words, or words
+that somehow represent our users' information needs or our own
+information needs if we're searching for ourselves. But what we're
+really doing when we search is putting together words to represent
+concepts or sets of concepts that then represent that information need.
+So, we're not just aiming to search with words, we're aiming to
+represent the concepts that are present in the information need. And
+this takes quite a bit of skill as well as quite a bit of time to think
+through your searches and not just type in the first word that comes to
+your mind, which is primarily how most people search. The third set of
+skills that is really important are the technical skills that are
+particular to a specific search system. We've been talking a lot about
+structures of databases or structures of our search systems and how that
+can impact our searching, and it becomes really important, especially
+when you have a very complex search where you may have to combine
+several different fields in a database, you might need to know what kind
+of indexing is behind those fields. The majority of our proprietary
+databases nowadays are creating inverted indexes behind the fields in
+the database, and they're generally word and phrase indexed. So, you can
+put in one word or you can put in multiple words using the parameters of
+that system. It's also really important to know which search functions
+are available in your database. Most systems have either implicit or
+explicit Boolean operator searches as a possibility, but then there are
+some other higher level skills that we can use, such as proximity
+searching or truncation and wildcards, which we'll go into in a few
+minutes. Each of these is designed to help you become even more precise
+in your search and, in some cases, to increase recall as well. So, it's
+really important when you start to learn a new database or a suite of
+databases, such as EBSCO or ProQuest, that you look up what the search
+functions are, that you try to determine what types of searching are
+possible within the systems, how they handle plurals, what their stop
+word lists might include, how the database is structured, and the
+differences between using advanced search versus a simple search or a
+basic search. There is a great deal you can learn by looking at the help
+or FAQ pages for the different systems that you're using. So, now that
+we've talked a little bit about some of the skills that we need, let's
+talk about ten steps to good database searching.
+:::
+
+## Steps to Follow When Searching
+
+![](images/paste-5C3867E2.png)
+
+::: notes
+The first step is to read the query. We can substitute that for either
+listen to the query and also understand the query. So, if you're being
+sent a search in email or via chat, you're going to read the query, but
+you have to really read the query, meaning that you have to discern the
+meaning underneath the words in the user's query. If you're talking to
+the user, you need to actively listen to the query and start thinking
+about potential questions to ask them. As part of read the query, you
+need to make sure you really understand what the user wants, and if they
+can't spell it out for you, you need to ask more probing questions to
+find out exactly what they want. Or you may go back to the user at a
+later point and ask them further questions once you start searching. The
+second step is to identify the major concepts in the query. Parse apart
+the words and start thinking about what concepts you will be
+representing in the search terms. Third, you need to identify potential
+terms to correspond to those concepts. So, you're going to think about
+what words you might use to represent the concepts. And then you're
+going to select alternative terms to use if the original strategy needs
+refining, such as broader terms, narrower terms, or related terms. We're
+just going to walk through these steps quickly, and then we'll go back
+through them in more depth.
+:::
+
+## Steps to Follow When Searching
+
+![](images/paste-615E5423.png)
+
+::: notes
+The fifth step is to determine logical or Boolean relationships that
+could exist between the terms and the concepts. The sixth--and this is a
+very important step--is to choose the appropriate sources in which to
+conduct your searches. Choose databases that are on the topic itself, or
+if it's a very general kind of search, try to find a database that's
+going to include the types of resources that you envision would hold
+that information. Seven is, of course, to begin the search. Eight is to
+look at a few of the results and to evaluate whether or not your search
+is successful or if you need to rethink the terms or concepts or if you
+need to go back even further in your analysis. Nine is to revise and
+refine the search based on your initial results.
+:::
+
+## Step 1
+
+![](images/paste-DA469959.png)
+
+::: notes
+Okay, let's talk about step one. Again, it was to read the query, to
+understand the query, to listen to the query. Step one is really about
+conducting a really good reference interview. Now, I don't know if
+you've encountered this term in other courses or not, but a reference
+interview is something that we do when we talk to users about their
+information needs. The first step, of course, is to get as much
+information as you possibly can. And again, this is going to be limited
+by the type of system that intermediating between you and the user. If
+you're on the phone, you can ask for a lot of information, if you're via
+chat, you can continue to chat, but if you get something in email, you
+might have to have a series of emails over a protracted time period in
+order to gather what you need.
+
+When you're talking to the user, ask for useful terms, talk to them
+about their own prior searching and what they've looked for and what
+they've used, ask about any known authors or experts that might be part
+of a search or that you might want to look for; ask about sources that
+they've used or that they want you to use. And it's really important to
+find out what types of sources they really need. Do they need journal
+articles, and if so, do they have to be peer-reviewed? Depending upon
+your user, they may not know what that means, so you'll have to explain
+it further. Do they want books? Do they want conference proceedings,
+which would be a group of papers that are presented at a specialized
+conference? So, again, find out what type of sources they need as well,
+and that's going to help you limit your search.
+
+Determine criteria for evaluation, and there, of course, can be several
+different criteria, but some of the most prevalent would be like
+currency--how current does the resource need to be, the information that
+you find; are we looking at, archival materials where we need to go back
+into a backlog or back file, or do we need something that was published
+last week? So talk to them about their expectations for date
+restrictions. What kind of formats do they want? Do they need PDF files,
+do they want HTML? They more than likely want full text retrieval if
+you're looking for journal articles or conference proceedings. They want
+something they can use immediately. But they also might want images.
+They might want video or audio. So, again, talk to them about different
+formats. And then also ask them what is not wanted. Are there materials
+that they already know about? Have they conducted their own searches and
+what have they found? Are there things that they don't want to address?
+Talk to them about the scope of the question as well, and, you know,
+what to include and what not to include in your search.
+:::
+
+## Step 2: Identify major concepts to use
+
+![](images/paste-54855831.png)
+
+::: notes
+Step two is probably what I think is the best part of searching, and
+that's when you identify the major concepts that represent the
+information need. You would complete what's called a concept analysis.
+Remember what I said, when we search, we're forced to use words, but
+we're thinking about concepts. A concept means, "an abstract idea of a
+thing, regardless of what it may be called in a given instance. It may
+have more than one recognizable name." This is a really important point.
+You might put into your search the first word that comes to your mind
+when you're thinking of a particular concept. So, if you're looking for
+'instructor' for example, there are multiple other terms that can be
+used to represent the same concept. It can be 'teacher,' 'professor,'
+'lecturer,' or other terms you can think of. So, again, you need to look
+at the query, understand the query, and identify the major concepts that
+are present in that query. And then you start thinking about other
+terms.
+:::
+
+## Step 2 continued
+
+![](images/paste-BC15371B.png)
+
+::: notes
+When we put together a search, we do what's called 'building blocks' or
+'playing with Legos' during concept analysis. Each word that you use to
+represent the concepts that are present in the information need are what
+we might think of as a Lego block, and you're going to build some
+structure out of your Legos. You put words together to make a concept,
+and you're going to use multiple types of words to form those concepts.
+And you might have multiple concepts that you need to use to represent
+that information need. You are going to put those concepts together into
+what we call a search string. The search string is what you enter into
+your database. Now, just like Legos, words and concepts of a search are
+interchangeable, movable and adaptable, meaning that you might have to
+rethink the words you're using if they're not working in your search.
+You can move them around. You know, put them in different orders or put
+them in different groupings, but again, you have to keep in mind how
+you're combining them. So, think about the formulation of your query as
+playing with Legos. Think about building some kind of a structure out of
+each of those different Legos.
+:::
+
+## Step 3: Identify terms to use
+
+![](images/paste-3659D359.png)
+
+::: notes
+So, now we've identified several concepts, and we've started to think about how we can put words together to represent those concepts in our query. The next thing that I want you to do is to identify terms that you can use. And I want you to find multiple terms to represent each concept. Don't just use the one term, because you never know how it's being used in the system. Now, the difference between this idea and one form of searching, which is controlled vocabulary searching, is that there is only one word that represents that concept in the system. When you do controlled vocabulary searching, you're using the thesaurus of the system, or you're using the authorized terms that someone has decided will represent those concepts within that particular system. This is analogous to when we assign subject headings from Library of Congress or from Sears Subject Headings to represent the subjects in library catalog records. And there are definitely advantages and disadvantages to using controlled vocabulary searches.
+
+So, for step three, you're going to find multiple terms to represent each concept. It's really helpful to use a search form and to write out all the different concepts and the terms that you've identified. And then also, you can build in those relationships. When I learned to search, it was pre-Web days, and we constructed our searches offline before we even logged on to systems like Dialog because the system was very expensive to use. You remember we didn't have the graphical user interfaces that we have today. We had very clunky screens with green lettering on black screens, and it was not a very conducive environment for searching. 
+
+So, you're going to find multiple terms. You're going to think also about forms of the words you want to use, and you're going to think about whether you should truncate something or not. Now, truncating means that you're taking the word down to its root. For example, if you're looking for the word "computers", for example, but you think there might also be something in an article about computing, you would enter as your search term "comput" and then whatever the character is that that system uses for truncation-some use question marks, some use asterisks, and some even use number signs. So, again, that's one thing you have to find out about your system, is how to truncate. Truncation is useful because it gets more than just one form of the word, and some systems will default to either a singular or a plural search if you're not truncating at all. So it's, again, useful to know how the system deals with plural and singular forms of words. Truncation, again, offers you the ability to search for more than just one form of a word. 
+
+It is important to remember that there is not just one right way for formulate a search. Each of you is probably going to approach searches in different ways and use different operators, use different words, and that's okay. But again, you need to remember that the term you choose may not necessarily be used within the system itself, so think about alternative ones as well. And use a search form to structure your searches ahead of time. 
+:::
+
+## Step 4: Select alternative terms
+
+-   Mechanisms by which bibliographic control is established and
+    maintained
+-   Examples of tools (contain representations)
+    -   Library catalog\
+    -   Bibliographic
+    -   Indexes to journal literature\
+    -   Finding aids
+-   Three functions of all bibliographic tools
+    -   Identification or finding
+    -   Collocation or gathering
+    -   Evaluation or selecting
+-   Representations must support these functions
+
+::: notes
+In a library context, we call the creation of surrogates by several
+names, bibliographic control (control of the bibliographic universe),
+cataloging, indexing, etc. I personally like Patrick Wilson's vision,
+"bibliographic harmony"---where we strive to provide a harmonizing
+effect between the representations in our catalogs/information systems
+so that users can find what they are looking for.
+
+In libraries, we call the tools that we have created to effect
+bibliographic control (harmony), bibliographic tools or instruments.
+
+There are many examples and I have listed a few here. The readings for
+this module will cover these in more depth and give you additional
+examples.
+
+The functions of all bibliographic tools are to provide for: 1)
+Identification or finding 2) Collocation or gathering 3) Evaluation or
+selecting
+
+These functions are the original objectives of a library catalog that
+Charles Ami Cutter developed back in the early 1900s. And they really
+have not changed much since. Abbas and Taylor will take you through some
+of the rich history of the development of bibliographic tools in the
+readings for this module.
+
+Representations must support these three functions, in other words, they
+should include elements that help users identify or find a specific item
+in the collection or a specific subject; they should collocate or gather
+together all items by a specific author, title, or about a specific
+subject; and they should assist users in the evaluation or selecting of
+the object they need to satisfy their info need.
+
+WHAT other functions can you think of that could be included in a
+surrogate in a library context? In other context? WOULD they really be
+any different?
+:::
+
+## Representation Responsive to Users {.smaller}
+
+-   `What to users want to do?`
+    -   [Search?]{style="color: orange;"}
+    -   [Evaluate?]{style="color: orange;"}
+-   `How do our representations support their tasks?`
+-   Library catalog representations support
+    `four generic user tasks (FRBR)`
+    -   [Find]{style="color: orange;"}
+    -   [Identify]{style="color: orange;"}
+    -   [Select]{style="color: orange;"}
+    -   [Acquire or obtain]{style="color: orange;"}
+
+::: notes
+As noted earlier, representations should be responsive to your users. In
+order to design "user-centered" systems and representations, we have to
+know a little about how users interact with our systems, how they
+search, what they want to do with our systems and with representations.
+
+Think about a general library catalog record. How do these
+representations support user tasks? A landmark study called the FRBR
+(Functional Requirements for Bibliographic Records) study was one of the
+first and one of the very few studies we have conducted to learn more
+about how users view our bibliographic records and information systems,
+as well as the tasks they hope to accomplish while using library
+catalogs/catalog records. Maxwell's reading in a later module will talk
+more about FRBR. Also be sure to explore the FRBR and RDA websites to
+learn more.
+
+You can see on the slide that three of the original objectives proposed
+by Cutter years ago still hold. FRBR studies identified an additional
+one: to acquire or obtain the object.
+
+So, what needs to be present in a surrogate so that users can satisfy
+the FRBR tasks? Should the representation be more generic or
+specialized? Can you think of instances in which representations would
+be customized for specific user groups?
+:::
+
+## Metadata and Metadata Schemes {.smaller}
+
+-   Data about an entity
+-   It is a
+    "`structured information that describes, explain, locates, or otherwise makes it easier to retrieve, use, or manage an information resource`"
+    (NISO, 2017:1)
+-   Metadata scheme consists of metadata elements
+    -   Library catalog metadata scheme (MARC) contains
+        `metadata elements` for title, author, subject, publisher, etc
+-   Metadata element represents an `attribute of the object`
+
+::: footer
+[Understanding Metadata: A
+Primer](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)
+:::
+
+::: notes
+OK, we cannot leave this lecture without at least introducing the
+concepts metadata and metadata schemes. I know, I have been using these
+terms throughout this lecture but it is logical to present them here
+again, as the result of the data modeling we just did (identifying
+entity level and attributes) is the development of a metadata scheme.
+AND the data we enter in the record to describe the object is metadata.
+
+The concept metadata is most often defined simply as "data about data"
+or "information about information".
+
+Librarians have been creating metadata for hundreds of years, we just
+did not have this sexy name, we called it cataloging.
+
+I prefer to think of metadata as "structured data representing an
+information object". We don't simply add a few words to describe an
+object, we make informed decisions and follow specific rules and
+standards for how to create the representation or the metadata.
+
+The term "metadata" was used before the advent of the Internet,
+primarily in computer science to specify information about database
+objects and/or program objects.
+
+When you structure metadata into a system, you are actually creating a
+metadata scheme, or the field structure in a database, or the list of
+attributes or elements you will use to represent the objects in your
+collection. The MARC scheme we use in libraries is an example of an
+early metadata scheme. There are many more.
+:::
+
+## Purpose and Functions of Metadata {.smaller}
+
+-   `Purpose`: represent an entity
+-   `Functions`
+    -   Discovering or finding that an entity exists
+    -   Evaluating or selecting an entity
+    -   Locating or accessing an entity
+    -   Others such as collection management, rating content, managing
+        intellectual property rights
+-   `Application areas`
+    -   Libraries
+    -   Websites
+    -   Government agencies
+    -   Museums
+
+::: notes
+The main purpose of metadata is of course to represent an information
+object.
+
+However, because the term was coined for use in the digital environment
+(though it is also used in an analog context as well), the functions we
+saw earlier of a library catalog are slightly augmented.
+
+For example, we find present in some metadata schemes what is called
+"administrative metadata" or information that represents administrative
+activities associated with the object, such as when it was donated and
+by whom, who owns copyright and how might the object legally be used,
+any content ratings, what collection it is part of, etc. You might also
+find metadata specific to the digital capture of the object, such as
+scanner used, resolution of image(s), date scanned and by whom, etc.
+:::
+
+## Power of Metadata: Structure
+
+![](images/3.png){fig-align="center" width="80%"}
+
+::: notes
+This slide illustrates the power of the STRUCTURE behind the metadata.
+Without the structure (left side of screen), we have a bunch of words
+that describe something, but our computerized systems cannot understand
+these data, nor can the computer process them. If the left hand side of
+the screen were typed on a piece of paper, HOW would we organize it in a
+library catalog? In any information system?
+
+The right hand side of the screen shows how the structured fields in the
+metadata scheme provide a useful framework for the system to process and
+for users to make some sense of.
+:::
+
+## Metadata Elements and Semantics {.smaller}
+
+::: panel-tabset
+## Introduction
+
+-   Each element needs a name
+-   Each element needs a definition (semantics)
+-   The semantics describe the information content associated with an
+    element
+-   Input rules associated with an element
+
+::: notes
+Let's break down the parts of a metadata scheme.
+
+Each scheme contains multiple elements. In MARC they are represented
+using numeric tags in the range of 0XX-9XX. We will examine the MARC
+structure in more depth in Module 7.2
+
+Each element (or think about an element as a field in a database) has
+three parts:
+
+1)  a name to identify the element in the field structure
+2)  a definition or what is called a semantic, which explains to the
+    record creator (and users) what to expect to find entered in that
+    field
+3)  Input rules or standardized rules for how to create the content
+    entered into that field
+
+Any organization system contains a metadata scheme, regardless of
+context or form.
+:::
+
+## Introduction (Cont.)
+
+![](images/4.png){fig-align="center" width="80%"}
+
+## Dublin Core {.smaller}
+
+-   15 elements to represent digital resources
+-   Also used for analog resources
+
+![](images/5.png){fig-align="center" width="40%"}
+
+## Many Metadata Schemes
+
+-   Government Information Locator Service (GILS)
+    -   Metadata scheme for describing government information
+    -   67 elements
+-   Federal Geographic Data Committee (FGDC)
+    -   Metadata scheme for describing geospatial information
+    -   100+ elements
+-   Encoded Archival Description (EAD)
+    -   Used within the archival community
+-   And many more....
+    -   Visual Resources Core, MODS, etc.
+:::
+
+::: notes
+**Intro 2** -- Here is an example of a metadata element and its parts
+taken from one of the most well-known and used metadata schemes, the
+Dublin Core. Can you see what is MISSING?
+
+**Dublin core slide** ---- An example of a metadata scheme is the Dublin
+Core, developed in the mid 1990's and still being reworked today.
+
+It includes a core set of 15 generic elements at its base, though there
+are now many more that have been added to the scheme.
+
+We will come back to Dublin Core and other metadata schemes later but
+take some time to explore some of them online and to look at the
+different collections they are being used in.
+
+**more scheme** --- Just some more great examples to explore. Look these
+up using your favorite search engine.
+:::
+
+## Focus So Far, Upcoming Weeks
+
+-   Structuring the representation
+    -   Selecting object attributes to represent (based on users, user
+        questions, and collection's objects)
+    -   Labeling attributes through the metadata elements/field names
+    -   Defining the elements (semantics) to indicate information about
+        object to record
+-   In a few weeks we will try some data modeling
+
+::: notes
+This lecture has been a very quick and simple introduction to the
+complex concepts of representation and surrogation, bibliographic
+control and tools, and metadata and metadata schemes, as well as to the
+process and some decisions we make when developing an organization
+system.
+
+In the readings for the module you will explore these concepts, tools,
+and processes further.
+
+In Module 7, we will take a more in depth look at the application of
+representation and a metadata scheme when we discuss bibliographic
+control.
+
+Later we will look further at systems and metadata schemes.
+
+Enjoy the readings and be sure to ask questions or post insights as you
+read.
+:::
