@@ -746,48 +746,189 @@ set. This is both an advantage and a limitation of the IR model.
 -   Example of Boolean Search
 
     ![](images/clipboard-953469533.png)
-    
-:::notes
-Let’s
-take a look
-at an example of a Boolean search. We’re going to use as our search
-‘information AND retrieval NOT data.
 
-AND in a Boolean search serves as an intersection between the terms, meaning that
-any documents that are retrieved
-have to
-include both ‘information’ and ‘retrieval,’
-otherwise the result set will not include that
-particular document.
-The OR serves as a union, meaning that any of the two terms
-have to
-be present
-within the document within the OR relationship or the
-document
-would not be
-returned in the retrieval set.
+::: notes
+Let’s take a look at an example of a Boolean search. We’re going to use
+as our search ‘information AND retrieval NOT data.
 
-The NOT serves as a complement, or we might think of it as a way of filtering out
-those documents that we do
-not
-want to see retrieved.
+AND in a Boolean search serves as an intersection between the terms,
+meaning that any documents that are retrieved have to include both
+‘information’ and ‘retrieval,’ otherwise the result set will not include
+that particular document. The OR serves as a union, meaning that any of
+the two terms have to be present within the document within the OR
+relationship or the document would not be returned in the retrieval set.
 
-So, in this
-particular search
-we have ‘information AND retrieval NOT data.’ In
-document A, we have ‘information’ and ‘data.’ So, with the NOT serving as a
-complement or a filtering function, document A would not be retrieved.
+The NOT serves as a complement, or we might think of it as a way of
+filtering out those documents that we do not want to see retrieved.
 
-Document B includes ‘information’ and ‘retrieval,’ which satisfies our first criteria, and
-‘IR.’ Now, we don’t have the concept of IR as stated as the acronym as part of our
-retrieval, but because this document includes our two terms, ‘information’ and
-‘retrieval,’ and it does not include the term ‘data,’ this document would be retrieved.
-Document C ‘information’ and ‘data’ and ‘retrieval’ would, again, not be retrieved
+So, in this particular search we have ‘information AND retrieval NOT
+data.’ In document A, we have ‘information’ and ‘data.’ So, with the NOT
+serving as a complement or a filtering function, document A would not be
+retrieved.
+
+Document B includes ‘information’ and ‘retrieval,’ which satisfies our
+first criteria, and ‘IR.’ Now, we don’t have the concept of IR as stated
+as the acronym as part of our retrieval, but because this document
+includes our two terms, ‘information’ and ‘retrieval,’ and it does not
+include the term ‘data,’ this document would be retrieved. Document C
+‘information’ and ‘data’ and ‘retrieval’ would, again, not be retrieved
 because it includes the term ‘data.’
 
-And then, in Document
-D
-‘information’ and ‘retrieval’ and ‘book’ would be returned
-because it includes our terms ‘information’ AND ‘retrieval.
+And then, in Document D ‘information’ and ‘retrieval’ and ‘book’ would
+be returned because it includes our terms ‘information’ AND ‘retrieval.
 :::
 
+## Problems with Boolean Model
+
+-   Need to know the order (preference) the operators are processed by
+    the system
+-   Seems very simple to users but is really fairly complex
+-   May miss potentially relevant documents
+-   Does not rank retrieved documents
+-   Concepts within documents are difficult to show
+-   So why do we continue to use them?
+
+::: notes
+There are of course some problems with the Boolean model.
+
+One of which is that you need to know the order in which those operators
+are processed by the system.
+
+Depending upon the information retrieval system, some will use the AND
+operator relationship first, and then they will process the OR, followed
+by the NOT. Others have as first preference the OR, followed by AND, and
+then NOT. Depending upon how you construct your query and the order of
+operation, you can have some very interesting results as an impact of
+how the system processes those Boolean operators.
+
+Also, Boolean seems very simple to users, but as you saw, there were
+three types of relationships that are constructed in Boolean statements,
+and queries can really become very complex. People also misunderstand
+how OR or AND function within Boolean systems.
+
+A searcher may miss potentially relevant documents by using the NOT
+operator. If you filter out an entire set of documents based on
+particular terms, you’re then probably missing documents that might be
+useful. So, a cautionary note is to use NOT very sparingly, or to start
+without NOT in your statement and then you can use it later to filter
+out larger sets of documents.
+
+Boolean retrieval also does not rank documents, so all of the terms
+within the document are treated at an equal level, which in some cases
+may be appropriate and others, not. We’ll talk more about weighted
+retrieval in a few minutes.
+
+Concepts themselves as opposed to words are difficult to represent
+within the Boolean IR model, but if you use very advanced search
+techniques, such as nesting with Boolean operators--we can get closer to
+representation of concepts.
+
+The last thing that I wanted to mention about Boolean is with all of
+these difficulties, we continue to use this model because it has been
+part of our IR systems for many years, and it’s a very effective way of
+retrieving documents even with these different potential issues that
+I’ve just mentioned. And our users do like to use Boolean in the sense
+that they like to have more options in their retrieval. But we do have
+new models in current environments that allow better retrieval but with
+less control over what the system is doing or how it’s processing your
+terms.
+:::
+
+## Term Weighting {.smaller}
+
+-   `Weighted IR (probabilistic IR)`
+    -   makes use of inverted index and index terms
+    -   easier to assign weights if automatically indexed
+    -   each term in the index has a weight or value attached to it
+        -   weight reflects its relative importance in the document
+    -   weight is determined by use of term frequency
+        -   defined as the number of occurrences of a term in the
+            document
+        -   more frequently a term appears in a document, the more
+            likely it is to an important concept within the document
+
+::: notes
+Weighted information retrieval, what is oftentimes referred to
+probabilistic information retrieval, is another classical IR model that
+we’re going to talk briefly about.
+
+The Chowdhury readings include some really good instruction and
+explanations about weighted IR as well as some algebraic calculations if
+you want to pursue that even further to learn more about how systems
+calculate weights within IR. Weighted IR is usually in systems that have
+inverted indexes and index terms because what the system needs to do is
+have a set of terms to which it assigns weights, and it assigns weights
+based on the value of the word or the term within the document. So, what
+the system does is assign a weight to each term within the inverted
+index, and then within the searching process, the higher weighted
+documents or terms are retrieved. The weight is supposed to reflect the
+relative importance of a term within the document.
+
+There are different schemes that are used for weighting. The most
+frequently used is what’s called ‘term frequency’ or ‘co-occurrence’
+within a document. Basically, when we think about term frequency, it’s
+the number of occurrences of a term within a document, or how often a
+particular word appears within that document. We also can weight
+documents within sets. A system can examine how frequently a term occurs
+within the documents of a particular set. We also can look at term
+co-occurrence, as I mentioned, or how frequently the term appears within
+a document, but also in co-occurrence or in proximity to additional
+important or higher-weighted terms.
+
+The assumption behind a weighted system then, is that the more
+frequently a term appears in a document, the more likely that term is to
+be an important concept within the document, or that it represents the
+overall topics being discussed within the document. One problem with
+this, however, is if a term is used too much within a document or the
+terms are used too much within the document set, or within the database
+system, the term becomes un-useful. We call this distinctiveness within
+databases; for example, if we’re searching within a system that’s filled
+with computer-related documents, and this is a computer science
+database, the term ‘computer’ is of low value in both the indexing and
+retrieval processes because if every document in the set is related to
+computers, when you do a search with the term ‘computers,’ you’re going
+to return every single document in the collection. So, even though
+weighting can be really useful, you also have to take the context or the
+domain into account when you’re both selecting index terms as well as
+when you’re selecting terms for your retrieval.
+:::
+
+## Example of Weighted IR
+
+![](images/clipboard-4050955481.png)
+
+::: notes
+Let’s take a look at an example of weighted IR. This is just a basic
+example, and I recommend that you take a closer look at the Chowdhury
+readings for even more information on how weighted IR works within IR
+systems.
+
+The topic of the document is ‘information’ and ‘data retrieval.’ Some of
+the terms in the index might include ‘information retrieval,’ ‘data,’
+‘retrieval,’ ‘information,’ ‘system,’ ‘index,’ and ‘representation,’ and
+you can see from this example that this inverted index has both word and
+phrase indexing as possible within its structure.
+
+The column on the right hand side seems to have some extraneous words,
+such as ‘book,’ ‘illusion,’ ‘yellow,’ ‘car,’ ‘green,’ ‘ball,’ and
+‘keys.’
+
+In a weighted information retrieval model, within this particular
+document, the terms in the left hand column are probably more frequently
+used within the document, and the terms in the right hand column are
+probably used as examples or illustrations, and they would probably have
+lower weights assigned.
+
+How that would impact retrieval then is if you do a search for
+‘information retrieval’ or ‘information AND data,’ ‘data retrieval,’
+‘system’ or ‘representation,’ you’re probably going to retrieve this
+document because it would have higher weights for those terms.
+
+If you’re doing a search for ‘book,’ or ‘yellow’ or ‘car’ within this
+particular system, you’re probably not going to retrieve this document
+because those terms would have lower weights assigned to them.
+:::
+
+## Term Weighting (Cont.) {.smaller}
+
+![](images/clipboard-1263592877.png)
