@@ -1,0 +1,217 @@
+---
+title: "Module 4.1: Systems and Structures for Organizing Information"
+subtitle: "LIS 5043: Organization of Information"
+author: 
+  - Dr. Manika Lamba
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      theme: whiteboard
+      buttons: true
+    preview-links: true
+    controls: true
+    progress: true
+    show-notes: separate-page
+    logo: images/ou.png
+    css: styles.css
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Introduction
+
+::: notes
+In Module 3, we talked about users and information seeking studies and
+information behavior research– different ways in which our field and
+other fields have modeled users.
+
+In Module 4, we’re going to talk about information systems and
+databases, database design, and database modeling. We’re going to look
+at information systems from a basic system analysis perspective. I’m
+going to introduce you to some terminology–so you can better understand
+the vocabulary you may encounter in the readings and throughout Module
+4.
+
+We will not be getting into in-depth database design or system analysis
+in this module and will cover these topics on a very general level. If
+you are interested in these topics, I recommend you to enroll in LIS
+4683 Database Design for Information Organization course!
+
+But for this class, it’s important for us to understand how systems are
+structured and how that impacts some of the choices we make when we
+design our own systems or when we create representations within those
+systems.
+
+You will also learn more about systems in LIS 5063 Fundamentals of
+Information Technology. However, the data modeling that we will do in
+this lecture and in the accompanying lecture will give you a jump start
+in developing the system for your Organization System assignment.
+:::
+
+## Information Systems
+
+`An information system comprises a set of resources for collecting, managing, and providing access to information`
+
+-   These resources may involve:
+    -   manual technologies
+    -   automated technologies
+
+::: notes
+To begin, a very basic definition of an information system is “an
+information system comprises a set of resources for collecting,
+managing, and providing access to information.”
+
+And these resources may involve manual technologies and automated
+technologies.
+
+So, we’re not just thinking about an online database when we’re talking
+about an information system.
+
+We could be talking about file cabinets in your office, or we could talk
+about file folder systems within a human resources department. All of
+these are different kinds of information systems.
+:::
+
+## Information Containers and Content
+
+-   Information in an information system is in some tangible form -- we
+    can manipulate it
+
+-   Information objects have two aspects:
+
+    -   `Information container`: [physical embodiment of
+        information]{style="color: orange;"}
+    -   `Information content`: [intellectual contents of information
+        object]{style="color: orange;"} recorded in some fashion
+
+-   Many information systems utilize representations or surrogates of
+    the information objects
+
+-   The surrogates are what get manipulated in most cases, but with Web,
+    digital libraries, etc. we now access the object as well
+
+::: notes
+We can also categorize information into two different buckets
+--containers and content–- we’ll revisit this idea several times
+throughout the semester.
+
+Information in an information system is in some tangible form, meaning
+that we can manipulate it, we can organize it, we can move it around or
+change it if necessary.
+
+'In some tangible form', means it can be in any form of object, virtual,
+electronic, digitized, print–doesn’t matter. The information is also
+what Buckland calls “information as thing” in the Buckland reading.
+
+Information objects have two very basic aspects. They deal with the
+container aspects, or the physical aspects, of the information but they
+deal with the aspects of the object that describe the physical object
+rather than the other component, which is the content.
+
+When we talk about information content in libraries and information
+science, we deal with the intellectual content, or what the object is
+about. In other words, what subject or representation of the author’s
+ideas has been recorded in some fashion within the object.
+
+So, we have two buckets. We have a bucket for the **container aspect**
+and we have another bucket for the **content aspect**. In a few minutes
+we’ll talk about what would be included in each of those different
+areas.
+
+Many information systems utilize representations to connect users with
+the objects. For example, a library card catalog, whether it’s in a
+print form in a set of drawers or it may be an online catalog, you’re
+actually accessing a representation of an object rather than the object.
+So, a MARC catalog record or a library card catalog record are
+representations, or surrogates, of the object–not the actual object.
+
+However, with the Web and digital collections, we now can access more
+than just the surrogate; we can access the object.
+:::
+
+## Systems and Systems Thinking
+
+-   `System`: Consists of a number of components working together to
+    achieve some purpose
+-   Two important aspects
+    -   interacting components/subsystems
+    -   purposeful
+-   System concepts
+    -   Inputs
+    -   Transformation processes
+    -   Outputs
+    -   Feedback
+
+::: notes
+Now, when we think about systems from a system analysis perspective, we
+drill down to the different components of a system. A system is defined
+as “consisting of a number of components that work together to achieve
+some purpose.” And again, this doesn’t just have to apply to technical
+systems only; this concept can apply to any kind of a system. I was
+reading my son’s biology textbook, and the authors are describing how
+organisms have to be in line in the environment in order for that system
+to work. I hadn’t quite thought of that as a system before, but
+lightbulbs go on.
+
+In library and information science the system we’re most concerned about
+is an information retrieval system, or even a library integrated system.
+They have different components that work together to achieve a purpose,
+or a set of purposes.
+
+Systems have different inputs, transformative processes, outputs, and
+feedback.
+:::
+
+## Four Components of an Information System
+
+![](images/1.png){fig-align="center"}
+
+::: notes
+An information system is an socio-technical system comprised of two
+sub-systems: a technical sub-system and a social sub-system.
+
+The technical sub-system encompasses the technology and process
+components, while the social sub-system encompasses the people and
+structure components.
+:::
+
+## Structure of Information System
+
+![](images/clipboard-2640168974.png)
+
+:::notes
+For instance, this is a model of the components of a system. 
+
+The system has input from one side–people with problems and resulting information needs. 
+
+On the other side, the system has input that’s created by a cataloger or an indexer, where information professionals describe or create surrogates of the objects in the collection. 
+
+These representations are put into an information system, there’s a transformative process, or a retrieval matching process, and the output is information given back to the user that hopefully matches those two inputs. 
+
+So, from a systems perspective, an information system has one or more goals and objectives to perform. 
+:::
+
+## Information System As a *System*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
