@@ -659,8 +659,10 @@ This lecture has introduced you very briefly to some of the approaches to system
 
 ## Also of Interest
 
-- Be sure you read Chowdhury Ch-14 to learn more about the large scale IR evaluation studies conducted through the years (MEDLARS, TREC, etc.) and how results from these tests have improved IR
+- Be sure you read Chowdhury Ch-14 to learn more about the large scale IR evaluation studies conducted through the years (MEDLARS, [TREC](https://trec.nist.gov/), etc.) and how results from these tests have improved IR
 
 :::notes
-If you are interested in learning more about the large-scale IR evaluation studies I mentioned in this lecture refer to the Chowdhury Ch-14, and also search the Web to find more information on the TREC competition
+If you are interested in learning more about the large-scale IR evaluation studies I mentioned in this lecture refer to the Chowdhury Ch-14, and also search the Web to find more information on the [TREC competition](https://trec.nist.gov/)
 :::
+
+
