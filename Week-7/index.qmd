@@ -338,7 +338,7 @@ different areas and more.
 > private sector entities, such as national partnerships of industry
 > associations, and member institutes that are part of the governmental
 > structure of their countries, or are mandated by their government"
-> (ISO, About ISO, 2020).
+> (ISO, About ISO, 2020)
 
 ::: notes
 ISO is also what we call a ‘non-governmental organization,’ or an NGO,
