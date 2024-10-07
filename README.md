@@ -10,4 +10,5 @@
   - [Data Modeling](https://manika-lamba.github.io/LIS5043/Data%20Modeling/#/title-slide)
 - [Week 6: Information Retrieval Evaluation](https://manika-lamba.github.io/LIS5043/Week-6/#/title-slide)
 - [Week 7: Standards and Standardization](https://manika-lamba.github.io/LIS5043/Week-7/#/title-slide)
+- [Week 8: Ethics, Diversity and Access  Within Information Organization](https://manika-lamba.github.io/LIS5043/Week-8/#/title-slide)
 
