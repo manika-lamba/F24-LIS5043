@@ -1,0 +1,189 @@
+---
+title: "Module 6: Ethics, Diversity and Access  Within Information Organization"
+subtitle: "LIS 5043: Organization of Information"
+author: 
+  - Dr. Manika Lamba
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      theme: whiteboard
+      buttons: true
+    preview-links: true
+    controls: true
+    progress: true
+    show-notes: separate-page
+    logo: images/ou.png
+    css: styles.css
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Introduction
+
+::: notes
+As you have no doubt determined at this point, the topic of “information organization” is very broad based and contains multiple, complex, but interrelated facets. To this point we have been looking specifically at users, systems, and bibliographic and subject representation of objects. We have also stretched our thinking some to include the role that artifacts might play in how we organize our own knowledge spaces, such as the use of lists, the hierarchies we have on our cell phones or computers, calendars, etc. We have even thought through whether or not we are a “lumper” or a “splitter”. 
+
+An essential aspect of information organization that we have not specifically addressed is that when we design systems, when we create representations, we should always strive to provide ethical access to everyone. Providing ethical access is more than making information available to a wide audience. It is concerned with designing systems that can be used and are useful to everyone, regardless of age, gender, ethnicity, race, or ability. It is also concerned with representing information and knowledge in a sensitive and all inclusive manner.
+
+In this module we are going to learn more about some of the underlying topics of both designing systems that are accessible to everyone and the issues of ethical representation. 
+:::
+
+## Overview
+
+- Universal Design
+  - Designing systems that can be used and are useful for everyone
+
+- Ethical Representation
+  - Choices catalogers make
+  - Ethical subject representation
+  - Standards that are based on understanding of users and how users interact with library catalog and catalog records
+
+
+::: notes
+We are going to break this module down into two broad topic areas:
+
+Universal Design
+
+and 
+
+Ethical Representation
+:::
+
+## Excerpts from ALA Code of Ethics {.smaller}
+
+**Adopted June 28, 1997, by the ALA Council; amended January 22, 2008**
+
+- `Ethical dilemmas occur when values are in conflict`. The American Library Association Code of Ethics states the values to which we are committed, and embodies the ethical responsibilities of the profession in this changing information environment.
+
+- `We significantly influence or control the selection, organization, preservation, and dissemination of information`. In a political system grounded in an informed citizenry, we are members of a profession explicitly committed to intellectual freedom and the freedom of access to information. `We have a special obligation to ensure the free flow of information and ideas to present and future generations`.
+
+- We provide the highest level of service to all library users `through appropriate and usefully organized resources; equitable service policies; equitable access; and accurate, unbiased, and courteous responses to all requests`.
+
+- `We uphold the principles of intellectual freedom and resist all efforts to censor library resources`.
+
+:::notes
+First, if we take a look at these excerpts from the ALA Code of Ethics, the principles that guide us as organizers and providers of information can be distilled to:
+
+1. We should consult the Code of Ethics and its principles if ethical dilemmas occur that conflict with our values
+
+2. Because we have significant control or influence on the resources we provide access to, it is our obligation to ensure equitable, unbiased, and accurate access to those materials
+
+3. We should guard against all forms of censorship, including our own (intentional or nonintentional) 
+
+When designing systems (web pages, digital libraries, OPACs, interfaces, etc.) we need to be aware of good design, but also design that makes it possible for all users to usefully access our systems. Universal design uses not just principles of good design, but also understanding of how disabled individuals interact with and use systems. Equitable access can also mean providing resources and signage that can be useful by people with disabilities, the aged, or the youngest of our users.
+
+When we create representations of information and knowledge resources, we have to always keep the user in mind. Choosing appropriate attributes to represent for our audience is only one aspect of ethical representation.  We also have to be mindful and sensitive to users’ age, gender, ethnicity, and race when creating records that help users access our collections.
+
+:::
+
+## ALCTS Supplement {.smaller}
+
+**Developed by the ALCTS Task Force on Professional Ethics; adopted by the ALCTS Board of Directors, Midwinter Meeting, February 7, 1994**
+
+- Guidelines for ALCTS Members to Supplement the American Library Association Code of Ethics, 1994
+- The following guidelines are to assist ALCTS members in the interpretation and application of the ALA Code of Ethics as it applies to issues of concern to ALCTS. 
+- Within the context of the institution's missions and programs and the needs of the user populations served by the library an ALCTS member: 
+  - strives to develop a collection of materials within collection policies and priorities; 
+  - `strives to provide broad and unbiased access to information`; 
+  - `strives to preserve and conserve the materials in the library in accordance with established priorities and programs`; 
+- develops resource sharing programs to extend and enhance the information sources available to library users; 
+
+:::notes
+The ALA ALCTS (Association of Library Cataloging and Technical Services, the division whose focus is on cataloging and representation issues) also provides the above guidelines, published in 2004. Catalogers are currently working on an updated version of the above supplement that can be applied in day to day situations, but at this point there is little guidance beyond ALA’s Code of Ethics and the Supplement. 
+:::
+
+## ALCTS Supplement (Cont.) {.smaller}
+
+- `promotes the development and application of standards and professional guidelines`; 
+- establishes a secure and safe environment for staff and users; 
+- fosters and promotes fair, ethical and legal trade and business practices; 
+maintains equitable treatment and confidentiality in competitive relations and manuscript and grant reviews; 
+- `supports and abides by any contractual agreements made by the library or its home institution in regard to the provision of or access to information resources, acquisition of services, and financial arrangements`. 
+
+:::notes
+I have highlighted a few that are of specific importance when we organize information.
+
+Also check out the IFLA (International Federal of Library Associations) webpage for Code of Ethics for Librarians but also the links to other countries’ codes. https://www.ifla.org/faife/professional-codes-of-ethics-for-librarians 
+:::
+
+
+## Section 508
+
+**Summary of Section 508 Standards**
+- General 
+- Technical Standards 
+  - Software applications and operating systems 
+  - Web-based intranet and internet information     and systems 
+  - Telecommunication products 
+  - Video and multimedia products 
+  - Self contained, closed products 
+  - Desktop and portable computers 
+- Functional Performance Criteria 
+- Information, Documentation, and Support 
+
+:::notes
+The Module 6 reading list will link you out to the federal law related to universal design. Section 508 of the US Code includes provisions related to developing resources that provide equitable access to resources for disabled individuals.
+
+This slide shows an outline of the sub-parts included in Section 508. Click on the link “Summary of ….” to view the summary of Section 508 and to link out to each sub-part. Other links on your Readings list are also very helpful and will take you to the WC3’s site on Accessibility tools and hints for designing websites that are accessible to those individuals with disabilities.
+
+The next few slides provides a brief summary of Appendixes A, B,  and C. Be sure to link to the entire appendix for more details and the provisions of each subpart.
+
+:::
+
+## Appendix A
+
+- E101.1 Purpose. These Revised 508 Standards, which consist of 508 Chapters 1 and 2 (Appendix A), along with Chapters 3 through 7 (Appendix C), contain scoping and technical requirements for information and communication technology (ICT) to ensure accessibility and usability by individuals with disabilities. Compliance with these standards is mandatory for Federal agencies subject to Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) 
+
+:::notes
+Appendix A defines the types of technology that are covered in Section 508 and more importantly establishes a minimum level of accessibility that must be developed into websites and other technologies that are provided by Federal or State agencies.
+:::
+
+## Appendixes B and C
+
+- C101.1 Purpose. These Revised 255 Guidelines, which consist of 255 Chapters 1 and 2 (Appendix B), along with Chapters 3 through 7 (Appendix C), contain scoping and technical requirements for the design, development, and fabrication of telecommunications equipment and customer premises equipment, content, and support documentation and services, to ensure accessibility and usability by individuals with disabilities. These Revised 255 Guidelines are to be applied to the extent required by regulations issued by the Federal Communications Commission under Section 255 of the Communications Act of 1934, as amended (47 U.S.C. 255).
+
+:::notes
+Appendixes B and C include technical standards and the criteria for specific types of technologies (such as those listed above) to be in compliance with Section 508 provisions.
+:::
+
+## Appendix C (Cont.) {.smaller}
+
+- **601.1 Scope**. The technical requirements in Chapter 6 shall apply to ICT support documentation and services where required by 508 Chapter 2 (Scoping Requirements), 255 Chapter 2 (Scoping Requirements), and where otherwise referenced in any other chapter of the Revised 508 Standards or Revised 255 Guidelines.
+- **602 Support Documentation**
+  - 602.1 General. Documentation that supports the use of ICT shall conform to 602.
+  - 602.2 Accessibility and Compatibility Features. Documentation shall list and explain how to use the accessibility and compatibility features required by Chapters 4 and 5. Documentation shall include accessibility features that are built-in and accessibility features that provide compatibility with assistive technology.
+  - 602.3 Electronic Support Documentation. Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
+  - 602.4 Alternate Formats for Non-Electronic Support Documentation. Where support documentation is only provided in non-electronic formats, alternate formats usable by individuals with disabilities shall be provided upon request.
+
+:::notes
+Appendix C also addresses access issues to information sources provided by Federal and State agencies and what is required for compliance with Section 508.
+
+While Section 508 is only applicable to Federal and State agencies provision of materials and technologies, this standard is one that all should emulate when providing access through webpages or other technologies. Some organizations have developed their own standards or guidelines that are followed, at least in website design, while others have none. The links of your Readings list will help you learn more about this important aspect of information organization.
+:::
+
+## Ethical Representation
+
+- Choices catalogers make
+- Ethical subject representation
+- Standards that are based on understanding of users and how users interact with library catalog and catalog records
+
+:::notes
+The other broad topic related to Ethics, Diversity, and Access in Information Organization is related to ethical representation. Catalogers, or those who create representations, should be mindful and sensitive to the information uses of all users, regardless of age, gender, ethnicity, race, and ability. However, our systems, standards, and representation tools are not always developed with this principle in mind.
+
+Many of the choices catalogers make can enable or hinder access to information. Here are a few issues you will learn more about in the Readings (be sure to refer to the Readings List document for citations for the articles to read AND to the Canvas site for articles the groups will use for the Module 10 Class Discussion:
+
+1. Designing representation or metadata schema that are user appropriate 
+  - FRBR studies you explored earlier and how we are reconstructing bibliographic cataloging code (AACR2) into RDA
+  - Digital libraries designed for specific user groups, specific disciplines, etc. and how these can be designed for access by all users
+
+2. Subject headings that are ethical 
+using appropriate terms for ethnicity and culture;   - age-appropriate subject terms; 
+  - headings that encompass all gender choices;     - headings that are sensitive to individuals with disabilities
+
+As a reminder, you will engage in a class discussion for this module. See your group’s Module 6 group space for more details on this assignment.
+:::
+
+
+
