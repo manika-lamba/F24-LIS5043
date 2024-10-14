@@ -328,14 +328,49 @@ will use for the Module 10 Class Discussion:
 [More Info](https://www.youtube.com/watch?v=X0PVYgwHhVo)
 :::
 
-:::notes
-One of the core challenges in library and information science is that existing language vocabularies and classification systems fail to encompass all languages, particularly those of marginalized or underrepresented communities. These vocabularies often exclude the languages, terminologies, and experiences of many groups, resulting in incomplete and inaccurate representation of knowledge and culture. For instance, the Library of Congress (LOC), a dominant classification system, has historically failed to adequately represent marginalized groups, such as the LGBTQ+ community, Indigenous cultures, and other minority experiences. This omission perpetuates structural exclusion in how knowledge is categorized and accessed.
+::: notes
+One of the core challenges in library and information science is that
+existing language vocabularies and classification systems fail to
+encompass all languages, particularly those of marginalized or
+underrepresented communities. These vocabularies often exclude the
+languages, terminologies, and experiences of many groups, resulting in
+incomplete and inaccurate representation of knowledge and culture. For
+instance, the Library of Congress (LOC), a dominant classification
+system, has historically failed to adequately represent marginalized
+groups, such as the LGBTQ+ community, Indigenous cultures, and other
+minority experiences. This omission perpetuates structural exclusion in
+how knowledge is categorized and accessed.
 
-The root of this problem lies in the fact that cataloging and descriptive practices have long been based on systems and standards ingrained with white supremacy, misogyny, and homophobia. These systems were created from a narrow, exclusionary perspective, which means that many cataloging practices still carry forward these harmful biases. As a result, much of the language used in cataloging is outdated, insensitive, and inappropriate. It reflects the harmful biases built into the system, including terms and categorizations that may have been acceptable at the time but are now recognized as offensive, particularly in relation to race, gender, and sexuality.
+The root of this problem lies in the fact that cataloging and
+descriptive practices have long been based on systems and standards
+ingrained with white supremacy, misogyny, and homophobia. These systems
+were created from a narrow, exclusionary perspective, which means that
+many cataloging practices still carry forward these harmful biases. As a
+result, much of the language used in cataloging is outdated,
+insensitive, and inappropriate. It reflects the harmful biases built
+into the system, including terms and categorizations that may have been
+acceptable at the time but are now recognized as offensive, particularly
+in relation to race, gender, and sexuality.
 
-Furthermore, these classification systems were created from the dominant perspective of white, male, Christian, heterosexual, and cisgender individuals, leading to the privileging of certain viewpoints while others are marginalized or erased. This results in a combination of both intentional and unintentional bias, where some exclusions or misrepresentations were consciously designed, while others occurred out of ignorance or lack of awareness. Recognizing this combination of purposeful and unconscious bias is key to understanding how deeply entrenched these issues are.
+Furthermore, these classification systems were created from the dominant
+perspective of white, male, Christian, heterosexual, and cisgender
+individuals, leading to the privileging of certain viewpoints while
+others are marginalized or erased. This results in a combination of both
+intentional and unintentional bias, where some exclusions or
+misrepresentations were consciously designed, while others occurred out
+of ignorance or lack of awareness. Recognizing this combination of
+purposeful and unconscious bias is key to understanding how deeply
+entrenched these issues are.
 
-In response to these limitations, alternative vocabularies such as the Homosaurus (https://homosaurus.org/) have been developed. The Homosaurus is an LGBTQ+ focused vocabulary tool designed to offer more inclusive and appropriate terminology for describing LGBTQ+ topics. It counters the historical biases found in traditional systems, offering a path forward for more inclusive cataloging practices. Ultimately, addressing these biases and adopting more inclusive tools is essential for creating a more equitable and accurate system of knowledge classification in libraries and archives.
+In response to these limitations, alternative vocabularies such as the
+Homosaurus (https://homosaurus.org/) have been developed. The Homosaurus
+is an LGBTQ+ focused vocabulary tool designed to offer more inclusive
+and appropriate terminology for describing LGBTQ+ topics. It counters
+the historical biases found in traditional systems, offering a path
+forward for more inclusive cataloging practices. Ultimately, addressing
+these biases and adopting more inclusive tools is essential for creating
+a more equitable and accurate system of knowledge classification in
+libraries and archives.
 :::
 
 ## Bias Hiding in Your Library {.smaller}
@@ -351,12 +386,24 @@ assumed to mean white American men in terms of library subjects*
 <https://theconversation.com/the-bias-hiding-in-your-library-111951>
 :::
 
-:::notes
-In library classification and subject cataloging, there is often an implicit assumption of the "straight white American man" as the default or normative identity. This bias is especially evident when library subjects or categories lack specific qualifications related to gender, race, or geography. 
+::: notes
+In library classification and subject cataloging, there is often an
+implicit assumption of the "straight white American man" as the default
+or normative identity. This bias is especially evident when library
+subjects or categories lack specific qualifications related to gender,
+race, or geography.
 
-For example, when the subject "Astronauts" is used without further clarification, the assumption may be that it refers primarily to white American men, despite the fact that astronauts come from a variety of racial, gender, and national backgrounds. This reflects a broader issue in library systems where the dominant identity is assumed unless otherwise specified, which erases the diversity and contributions of individuals who do not fit that narrow mold. 
+For example, when the subject "Astronauts" is used without further
+clarification, the assumption may be that it refers primarily to white
+American men, despite the fact that astronauts come from a variety of
+racial, gender, and national backgrounds. This reflects a broader issue
+in library systems where the dominant identity is assumed unless
+otherwise specified, which erases the diversity and contributions of
+individuals who do not fit that narrow mold.
 
-Recognizing and addressing these hidden biases is crucial for creating more accurate and inclusive library descriptions and classifications that reflect the diversity of human experience.
+Recognizing and addressing these hidden biases is crucial for creating
+more accurate and inclusive library descriptions and classifications
+that reflect the diversity of human experience.
 :::
 
 ## Bias Hiding in Your Library {.smaller}
@@ -374,20 +421,50 @@ BY](images/clipboard-3614319695.png){fig-align="center" width="562"}
 <https://theconversation.com/the-bias-hiding-in-your-library-111951>
 :::
 
-:::notes
-In library classification systems, biases can often be hidden in the ways professions and identities are categorized. For example, while nurses are divided equitably by gender into male and female categories, there is a glaring disparity when it comes to the subject heading for "Prostitutes." The Library of Congress only includes a specific subject heading for “Male prostitute,” which reveals the underlying assumption that most prostitutes are female. This type of bias reinforces gender stereotypes and contributes to the invisibility of marginalized groups within certain professions.
+::: notes
+In library classification systems, biases can often be hidden in the
+ways professions and identities are categorized. For example, while
+nurses are divided equitably by gender into male and female categories,
+there is a glaring disparity when it comes to the subject heading for
+"Prostitutes." The Library of Congress only includes a specific subject
+heading for “Male prostitute,” which reveals the underlying assumption
+that most prostitutes are female. This type of bias reinforces gender
+stereotypes and contributes to the invisibility of marginalized groups
+within certain professions.
 :::
 
 ## Beginning of Change
 
 ![](images/clipboard-1321176236.png){fig-align="center" width="568"}
 
-:::notes
-Two influential works that played a significant role in addressing bias in library classification systems are shown on this slide. The first is **Sandy Berman’s 1971 work, "Prejudices and Antipathies: A Tract on the LC Subject Heads Concerning People,"** which critically examines the Library of Congress subject headings, pointing out their inherent biases and the marginalization of certain groups. Berman’s analysis was a pivotal moment in recognizing how subject headings reflected societal prejudices, including racism, sexism, and other forms of discrimination, and it advocated for more inclusive and accurate cataloging practices.
+::: notes
+Two influential works that played a significant role in addressing bias
+in library classification systems are shown on this slide. The first is
+**Sandy Berman’s 1971 work, "Prejudices and Antipathies: A Tract on the
+LC Subject Heads Concerning People,"** which critically examines the
+Library of Congress subject headings, pointing out their inherent biases
+and the marginalization of certain groups. Berman’s analysis was a
+pivotal moment in recognizing how subject headings reflected societal
+prejudices, including racism, sexism, and other forms of discrimination,
+and it advocated for more inclusive and accurate cataloging practices.
 
-The second work featured is the 1972 anthology **"Revolting Librarians,"** edited by **Celeste West and Elizabeth Katz.** This collection of essays was part of the larger radical librarianship movement that called for transformative change in libraries, particularly around issues of social justice and representation. The book challenges traditional library practices, including the role of librarians as gatekeepers of knowledge and the perpetuation of biases within cataloging systems.
+The second work featured is the 1972 anthology **"Revolting
+Librarians,"** edited by **Celeste West and Elizabeth Katz.** This
+collection of essays was part of the larger radical librarianship
+movement that called for transformative change in libraries,
+particularly around issues of social justice and representation. The
+book challenges traditional library practices, including the role of
+librarians as gatekeepers of knowledge and the perpetuation of biases
+within cataloging systems.
 
-These works represent the early stages of change in library science, where critical theory, feminist theory, and other movements began to question and push back against the biased systems that shaped library classification. They laid the groundwork for ongoing efforts to make library systems more inclusive and to reflect diverse identities and experiences, ultimately influencing subsequent scholars and movements, such as Critical Race Theory and Queer Theory, in the field of library science.
+These works represent the early stages of change in library science,
+where critical theory, feminist theory, and other movements began to
+question and push back against the biased systems that shaped library
+classification. They laid the groundwork for ongoing efforts to make
+library systems more inclusive and to reflect diverse identities and
+experiences, ultimately influencing subsequent scholars and movements,
+such as Critical Race Theory and Queer Theory, in the field of library
+science.
 :::
 
 ## Critical Theory
@@ -396,7 +473,7 @@ These works represent the early stages of change in library science, where criti
 -   Critical Race Theory - Jonathan Furner (2000s)
 -   "Three Decades Since *Prejudice and Antipathies*: A Study of Changes
     in the Library of Congress Subject Headings" - Steven Knowlton
-    (2005)
+    (2005) 
 -   [Queer
     Theory](https://academicworks.cuny.edu/gc_pubs/577/#:~:text=Queer%20theory%20invites%20a%20shift,just%20as%20critical%20catalogers%20do) -
     Emily Drabinski (2010s) \[*Currently President of the American
@@ -410,10 +487,24 @@ Headings](https://doi.org/10.24242/jclis.v1i1.20)
 Race Theory](https://doi.org/10.1080/01639374.2022.2089936)
 :::
 
-:::notes
-There has been a growing movement toward addressing these biases in cataloging practices. The integration of critical theory into library science has led to important changes in how subjects are classified. Feminist theory, driven by scholars like Hope Olson since the 1990s, has brought attention to social influences on classification, while Critical Race Theory, advanced by Jonathan Furner in the 2000s, has examined how race is represented in these systems. Steven Knowlton's study, *“Three Decades Since Prejudice and Antipathies: A Study of Changes in the Library of Congress Subject Headings,”* also reflects on the progress made in removing prejudiced language. 
+::: notes
+There has been a growing movement toward addressing these biases in
+cataloging practices. The integration of critical theory into library
+science has led to important changes in how subjects are classified.
+Feminist theory, driven by scholars like Hope Olson since the 1990s, has
+brought attention to social influences on classification, while Critical
+Race Theory, advanced by Jonathan Furner in the 2000s, has examined how
+race is represented in these systems. Steven Knowlton's study, *“Three
+Decades Since Prejudice and Antipathies: A Study of Changes in the
+Library of Congress Subject Headings,”* also reflects on the progress
+made in removing prejudiced language.
 
-More recently, Emily Drabinski, an advocate of Queer Theory and current president of the American Library Association (ALA), has pushed for changes to ensure the LGBTQ+ community is represented fairly and accurately. These shifts in theory and practice demonstrate the ongoing effort to address and correct biases hidden in library classification systems.
+More recently, Emily Drabinski, an advocate of Queer Theory and current
+president of the American Library Association (ALA), has pushed for
+changes to ensure the LGBTQ+ community is represented fairly and
+accurately. These shifts in theory and practice demonstrate the ongoing
+effort to address and correct biases hidden in library classification
+systems.
 :::
 
 ## Representation in LOC {.smaller}
@@ -428,14 +519,33 @@ More recently, Emily Drabinski, an advocate of Queer Theory and current presiden
     -   broad and inaccurate subject term
 -   Western bias
 
-:::notes
-We have now seen that how the **representation in the Library of Congress (LOC) subject headings** for various groups are either absent or incompletely represented in these systems. For example, subject headings related to **LGBTQIA+ communities** are often limited or missing, failing to reflect the full spectrum of sexual and gender diversity. Similarly, gender categories themselves are often inadequate, lacking the nuance needed to represent non-binary, transgender, and other gender-diverse identities.
+::: notes
+We have now seen that how the **representation in the Library of
+Congress (LOC) subject headings** for various groups are either absent
+or incompletely represented in these systems. For example, subject
+headings related to **LGBTQIA+ communities** are often limited or
+missing, failing to reflect the full spectrum of sexual and gender
+diversity. Similarly, gender categories themselves are often inadequate,
+lacking the nuance needed to represent non-binary, transgender, and
+other gender-diverse identities.
 
-In terms of **racial categories**, the LOC subject headings have historically been created and named by the dominant group—typically white, Western classifiers—which results in biased and reductive representations of race. Categories for racial and ethnic groups are often shaped by these external perspectives rather than the groups themselves. This is particularly problematic for **Indigenous peoples**, where subject terms are often overly broad or inaccurate, homogenizing a vast diversity of cultures, languages, and histories under a single, Western-biased term.
+In terms of **racial categories**, the LOC subject headings have
+historically been created and named by the dominant group—typically
+white, Western classifiers—which results in biased and reductive
+representations of race. Categories for racial and ethnic groups are
+often shaped by these external perspectives rather than the groups
+themselves. This is particularly problematic for **Indigenous peoples**,
+where subject terms are often overly broad or inaccurate, homogenizing a
+vast diversity of cultures, languages, and histories under a single,
+Western-biased term.
 
-The slide emphasizes that these gaps and inaccuracies perpetuate a **Western bias** in library cataloging systems, privileging Western norms and viewpoints while erasing or misrepresenting the experiences and knowledge of marginalized groups. This lack of comprehensive representation highlights the need for ongoing efforts to update and revise these classification systems to be more inclusive and accurate.
+The slide emphasizes that these gaps and inaccuracies perpetuate a
+**Western bias** in library cataloging systems, privileging Western
+norms and viewpoints while erasing or misrepresenting the experiences
+and knowledge of marginalized groups. This lack of comprehensive
+representation highlights the need for ongoing efforts to update and
+revise these classification systems to be more inclusive and accurate.
 :::
-
 
 ## Some Positive Changes in LOC SH {.smaller}
 
@@ -470,16 +580,36 @@ The slide emphasizes that these gaps and inaccuracies perpetuate a **Western bia
 <https://theconversation.com/the-bias-hiding-in-your-library-111951>
 :::
 
-:::notes
-There have been some **positive changes** made in the **Library of Congress (LOC) subject headings** over time, particularly in the areas of ethnicity, medical conditions, and gender identity. These changes reflect evolving societal understanding and a move towards more inclusive and respectful language. 
+::: notes
+There have been some **positive changes** made in the **Library of
+Congress (LOC) subject headings** over time, particularly in the areas
+of ethnicity, medical conditions, and gender identity. These changes
+reflect evolving societal understanding and a move towards more
+inclusive and respectful language.
 
-In terms of **ethnicity**, a significant shift occurred in the late 1970s when the term "Afro-Americans" replaced the outdated and offensive term "Negroes." This was further updated in 2000 to "African Americans" or "Blacks". 
+In terms of **ethnicity**, a significant shift occurred in the late
+1970s when the term "Afro-Americans" replaced the outdated and offensive
+term "Negroes." This was further updated in 2000 to "African Americans"
+or "Blacks".
 
-Regarding **medical conditions**, in 2001, LOC replaced the terms "Mentally handicapped" and "Retarded persons" with the more respectful and person-first language, "People with mental disabilities." This change was important in reducing the stigma associated with outdated and pejorative language around disabilities.
+Regarding **medical conditions**, in 2001, LOC replaced the terms
+"Mentally handicapped" and "Retarded persons" with the more respectful
+and person-first language, "People with mental disabilities." This
+change was important in reducing the stigma associated with outdated and
+pejorative language around disabilities.
 
-The **gender identity** category has also seen positive changes. One of the earliest improvements was made in 1972 when LGBT subjects were reclassified under "Sexual minorities" instead of the derogatory "Sexual deviations," a term that no longer exists in the LOC subject headings. More recently, in December, the Library of Congress made a further change by updating the broader term from "Sexual minorities" to the more neutral and inclusive "persons," reflecting a continued effort to respect and affirm diverse identities. 
+The **gender identity** category has also seen positive changes. One of
+the earliest improvements was made in 1972 when LGBT subjects were
+reclassified under "Sexual minorities" instead of the derogatory "Sexual
+deviations," a term that no longer exists in the LOC subject headings.
+More recently, in December, the Library of Congress made a further
+change by updating the broader term from "Sexual minorities" to the more
+neutral and inclusive "persons," reflecting a continued effort to
+respect and affirm diverse identities.
 
-These changes demonstrate that while the LOC classification system has had its flaws, it is gradually evolving to better reflect the diversity of our society.
+These changes demonstrate that while the LOC classification system has
+had its flaws, it is gradually evolving to better reflect the diversity
+of our society.
 :::
 
 ## Efforts by Library of Congress {.smaller}
@@ -489,14 +619,31 @@ These changes demonstrate that while the LOC classification system has had its f
 ::: footer
 <https://www.loc.gov/aba/cataloging/subject/indigenous.html#in-process>
 :::
-:::notes
-The **Library of Congress (LOC)** has been making efforts to address and update the subject headings related to different terms. This slide demonstrates the LOC's ongoing efforts to improve representation and accuracy in its cataloging system for Indigenous peoples, ensuring that these changes reflect both contemporary standards and the preferences of Indigenous communities themselves.
 
-The LOC is committed to ensuring that Indigenous group names and classifications are accurately and respectfully represented in its subject heading system. This commitment is part of a broader initiative, titled **"Evaluation of Headings for Indigenous Peoples,"** which seeks to revise and improve how Indigenous groups are categorized, moving away from outdated, inaccurate, or broad terms that have historically dominated library systems.
+::: notes
+The **Library of Congress (LOC)** has been making efforts to address and
+update the subject headings related to different terms. This slide
+demonstrates the LOC's ongoing efforts to improve representation and
+accuracy in its cataloging system for Indigenous peoples, ensuring that
+these changes reflect both contemporary standards and the preferences of
+Indigenous communities themselves.
 
-As part of this effort, the LOC provides **interim guidelines** on how to handle subject and demographic term proposals for Indigenous groups. These guidelines aim to support more accurate and culturally sensitive classifications. 
+The LOC is committed to ensuring that Indigenous group names and
+classifications are accurately and respectfully represented in its
+subject heading system. This commitment is part of a broader initiative,
+titled **"Evaluation of Headings for Indigenous Peoples,"** which seeks
+to revise and improve how Indigenous groups are categorized, moving away
+from outdated, inaccurate, or broad terms that have historically
+dominated library systems.
 
-The LOC encourages feedback from the community through a **feedback mechanism**, enabling a participatory approach to updating subject headings.
+As part of this effort, the LOC provides **interim guidelines** on how
+to handle subject and demographic term proposals for Indigenous groups.
+These guidelines aim to support more accurate and culturally sensitive
+classifications.
+
+The LOC encourages feedback from the community through a **feedback
+mechanism**, enabling a participatory approach to updating subject
+headings.
 :::
 
 ## Efforts by Library of Congress {.smaller}
@@ -507,10 +654,10 @@ The LOC encourages feedback from the community through a **feedback mechanism**,
 <https://www.loc.gov/aba/cataloging/subject/Evaluation-Headings-Indigenous-Peoples.pdf>
 :::
 
-:::notes
-This slide shows the screenshot of the guideline follows by LOC for evaluating the subject heading for the indigenous people.
+::: notes
+This slide shows the screenshot of the guideline follows by LOC for
+evaluating the subject heading for the indigenous people.
 :::
-
 
 ## Efforts by Library of Congress {.smaller}
 
@@ -520,8 +667,11 @@ This slide shows the screenshot of the guideline follows by LOC for evaluating t
 <https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160321.html>
 :::
 
-:::notes
-In this slide, I am showing the LOC procedure of inclusion and exclusion of the different terms proposed by the community. Once the term is proposed by you, it goes through an internal meeting discussion (& voting) and is decided to be either included in the LOC or not.
+::: notes
+In this slide, I am showing the LOC procedure of inclusion and exclusion
+of the different terms proposed by the community. Once the term is
+proposed by you, it goes through an internal meeting discussion (&
+voting) and is decided to be either included in the LOC or not.
 :::
 
 ## Efforts by Library of Congress {.smaller}
@@ -532,8 +682,9 @@ In this slide, I am showing the LOC procedure of inclusion and exclusion of the 
 <https://www.loc.gov/aba/cataloging/subject/lcsh-process.html>
 :::
 
-:::notes
-Follow the link in the footnote to know the overall process followed by LOC to submit the proposal to include or exclude a LOC subject term.
+::: notes
+Follow the link in the footnote to know the overall process followed by
+LOC to submit the proposal to include or exclude a LOC subject term.
 :::
 
 ## Efforts by Libraries {.smaller}
@@ -561,14 +712,35 @@ Follow the link in the footnote to know the overall process followed by LOC to s
 <https://www.library.virginia.edu/policies/statement-on-harmful-language>
 :::
 
-:::notes
-Libraries are increasingly recognizing and addressing the problematic history embedded in cataloging and archival systems, particularly with respect to biased and harmful language. There are many libraries that are trying remove such subject terms in their local catalog.
+::: notes
+Libraries are increasingly recognizing and addressing the problematic
+history embedded in cataloging and archival systems, particularly with
+respect to biased and harmful language. There are many libraries that
+are trying remove such subject terms in their local catalog.
 
-A prime example of this is the **University of Virginia Library's** **Statement on Harmful Language in Cataloging and Archival Description**, where they actively acknowledge the presence of biased and offensive terms in Library of Congress Subject Headings (LCSH) and legacy records. In response, they have committed to removing such harmful language from their records, working to replace outdated, racist, and pejorative terms with more respectful and inclusive alternatives.
+A prime example of this is the **University of Virginia Library's**
+**Statement on Harmful Language in Cataloging and Archival
+Description**, where they actively acknowledge the presence of biased
+and offensive terms in Library of Congress Subject Headings (LCSH) and
+legacy records. In response, they have committed to removing such
+harmful language from their records, working to replace outdated,
+racist, and pejorative terms with more respectful and inclusive
+alternatives.
 
-The University of Virginia Library, along with other institutions, is supporting broader efforts within the library profession to advocate for changes in LCSH terms. Simultaneously, they are taking a **localized approach**, adapting their own cataloging practices to replace harmful language with more acceptable local subject headings, ensuring that their catalog is more inclusive and reflective of modern standards. 
+The University of Virginia Library, along with other institutions, is
+supporting broader efforts within the library profession to advocate for
+changes in LCSH terms. Simultaneously, they are taking a **localized
+approach**, adapting their own cataloging practices to replace harmful
+language with more acceptable local subject headings, ensuring that
+their catalog is more inclusive and reflective of modern standards.
 
-In the case of archival collections, libraries are also taking care to alert patrons to potentially harmful or outdated language. They provide brief notes alongside some descriptions to inform users about the presence of such language, thereby acknowledging the historical context and fostering transparency. These efforts by libraries represent a critical step toward addressing past biases and creating more equitable and inclusive cataloging practices moving forward.
+In the case of archival collections, libraries are also taking care to
+alert patrons to potentially harmful or outdated language. They provide
+brief notes alongside some descriptions to inform users about the
+presence of such language, thereby acknowledging the historical context
+and fostering transparency. These efforts by libraries represent a
+critical step toward addressing past biases and creating more equitable
+and inclusive cataloging practices moving forward.
 :::
 
 ## Efforts by Libraries {.smaller}
@@ -579,21 +751,37 @@ In the case of archival collections, libraries are also taking care to alert pat
 :::
 
 ::: footer
-- <https://library.virginia.edu/about-uva-library/subject-headings>
+-   <https://library.virginia.edu/about-uva-library/subject-headings>
 
-- [Growing Reparative
-Taxonomy](https://myuva-my.sharepoint.com/:x:/g/personal/jtb4t_virginia_edu/EeGfxdWzdE1GoCjRBo4-W_YBbGhzdqWcxBdNrHf_ePbTng?rtime=KGDpdNo83Eg)
+-   [Growing Reparative
+    Taxonomy](https://myuva-my.sharepoint.com/:x:/g/personal/jtb4t_virginia_edu/EeGfxdWzdE1GoCjRBo4-W_YBbGhzdqWcxBdNrHf_ePbTng?rtime=KGDpdNo83Eg)
 
-- [Form
-Link](https://www.lib.virginia.edu/about-uva-library/subject-headings/form)
+-   [Form
+    Link](https://www.lib.virginia.edu/about-uva-library/subject-headings/form)
 :::
 
-:::notes
-Taking the example of University of Virginia (UVA), you can also initiate the practice of making your library catalog more inclusive.
+::: notes
+Taking the example of University of Virginia (UVA), you can also
+initiate the practice of making your library catalog more inclusive.
 
-UVA is actively working to correct these issues through their Subject Access Enhancement Initiative. As part of this initiative, they are developing a reparative taxonomy that documents changes made to the catalog so far, making these revisions publicly available for transparency (with downloadable resources like the enhanced terms list).
+UVA is actively working to correct these issues through their Subject
+Access Enhancement Initiative. As part of this initiative, they are
+developing a reparative taxonomy that documents changes made to the
+catalog so far, making these revisions publicly available for
+transparency (with downloadable resources like the enhanced terms list).
 
-To build understanding, the library engages with experts across various disciplines through a series of learning sessions. These sessions cover topics like the evolving language of slavery and race in American history, gender and sexuality, and Native American and Indigenous studies. This collaborative and educational approach helps to better inform the cataloging community and promotes a more inclusive and accurate representation of diverse subjects.
+To build understanding, the library engages with experts across various
+disciplines through a series of learning sessions. These sessions cover
+topics like the evolving language of slavery and race in American
+history, gender and sexuality, and Native American and Indigenous
+studies. This collaborative and educational approach helps to better
+inform the cataloging community and promotes a more inclusive and
+accurate representation of diverse subjects.
 
-Additionally, the library encourages public participation in its efforts to improve cataloging practices. Patrons are invited to identify offensive terms in the online catalog, Virgo, and suggest more appropriate replacements. This crowdsourcing approach enables the library to continuously update and refine its subject headings, fostering a more inclusive and responsive catalog.
+Additionally, the library encourages public participation in its efforts
+to improve cataloging practices. Patrons are invited to identify
+offensive terms in the online catalog, Virgo, and suggest more
+appropriate replacements. This crowdsourcing approach enables the
+library to continuously update and refine its subject headings,
+fostering a more inclusive and responsive catalog.
 :::
