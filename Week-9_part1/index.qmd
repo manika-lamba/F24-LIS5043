@@ -811,3 +811,43 @@ also data that will be captured in our subject authority records.
 ## Subject Relationship
 
 ![](images/clipboard-3697448043.png){fig-align="center" width="76%"}
+
+::: notes
+Let’s take a look at the subject relationships within those Group 3
+entities.
+
+So, for example, we’re used to the idea that a work is created by a
+person and that a person creates a work, but we also have to think about
+the fact that a work has a subject, which would be its concept or its
+topic, and now we can think about location and event as well.
+
+And that concept, topic, location, event can be the subject of a work.
+:::
+
+## Group 3
+
+![](images/clipboard-3935912758.png){fig-align="center" width="73%"}
+
+::: notes
+A work can be about many things, so this subject relationship, as shown
+on this slide, relates a work to all of the other entities –because a
+work can be about another bibliographic resource, like a documentary
+movie about the Gutenberg Bible or a work can be about a person – like a
+biography – or about a corporate body – like the history of an
+organization. But a work can also be about a concept, or about some
+object, or event, about a place. We may also at some point add the
+entity for time to this model (which is under consideration by the FRSAR
+Wkg. Grp).
+
+So those are the entities and relationships in the FRBR
+entity-relationship model, and some of the elements or attributes that
+characterize each of those entities. We’ve covered what FRBR is in terms
+of its conceptual model, let’s now move on to why we need it. I’ve
+already mentioned some reasons: like it reminds us of the importance of
+being able to group related things together and it gives us a clear way
+of identifying those things and describing them with specific elements
+that can then be re-used or packaged to best suit the needs for
+displaying information to users.
+
+End of 7.1.1 Part 1 slides. Proceed to 7.1.1 Part 2.
+:::
