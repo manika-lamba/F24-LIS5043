@@ -16,3 +16,4 @@
   - [Module 7.1.1 Conceptual Models: FRBR, FRAD, FRSAD PART 2](https://manika-lamba.github.io/F24-LIS5043/Week-9_part2/#/title-slide)
 - [Week 10: Bibliographic Access, MARC, and Authority Control](https://manika-lamba.github.io/F24-LIS5043/Week-10/#/title-slide)
 - [Week 11: Module 7.3: Other Metadata Schemes](https://manika-lamba.github.io/F24-LIS5043/Week-11/#/title-slide)
+- [Week 12: Module 8.1: Subject Access](https://manika-lamba.github.io/F24-LIS5043/Week-12/#/title-slide)
