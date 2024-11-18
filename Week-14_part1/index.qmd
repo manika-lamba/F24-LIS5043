@@ -674,7 +674,7 @@ In a digital environment, the folder names that you develop for your personal wo
   - IR systems design
 
 - Information professionals improve organization of resources to accommodate users' searching and personal/group organization styles 
-Understand users’
+- Understand users’
   - Organization schemes (categories, labels, methods)
   - Expectations of search process
   - Decision-making criteria
