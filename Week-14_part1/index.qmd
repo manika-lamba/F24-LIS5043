@@ -35,7 +35,7 @@ It will also look at some structures within LIS we’ve talked about in
 previous modules but think about them from a different perspective.
 :::
 
-## Envisioning Exercise
+## Envisioning Exercise #1
 
 `Describe how YOU organize information`
 
@@ -57,7 +57,7 @@ to think through or write down some thoughts about each of these as we
 continue our discussion.
 :::
 
-## Envisioning Exercise
+## Envisioning Exercise #1
 
 -   What devices (all types) do you use to organize your information?
 -   How do/can you share info between these spaces?
