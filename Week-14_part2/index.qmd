@@ -219,7 +219,7 @@ analysis tools that care useful to academics.
 
 `When to Use Topic Modeling`
 
--   when you have a **vast collection** of text documents \[which can be
+-   when you have a **vast collection** of text documents \[which cannot be
     tagged manually by human\]
 
 -   when the collection belongs to a **specific subject** \[such as a
