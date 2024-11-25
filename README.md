@@ -21,3 +21,4 @@
 - Week 14:
     - [Module 9.1: Nonbibliographic Structures for Organizing Knowledge](https://manika-lamba.github.io/F24-LIS5043/Week-14_part1/#/title-slide)
     - [Module 9.2: Nonbibliographic Structures for organizing knowledge](https://manika-lamba.github.io/F24-LIS5043/Week-14_part2/#/title-slide)
+- [Week 15: Module 10: Data Stewardship and Visualization](https://manika-lamba.github.io/F24-LIS5043/Week-15/#/title-slide)
